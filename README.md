@@ -20,8 +20,8 @@ A bullet list
 
 A numbered list
 
-#.Item one 
-#.Item two
+#. Item one 
+#. Item two
 
 
 
