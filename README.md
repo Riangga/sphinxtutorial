@@ -14,12 +14,12 @@ This is how you write *italics*
 This is how you do a hyperlink http://google.com
 
 A bullet list
-# item foo
-# item bar
+* item foo
+* item bar
 
 A number list
-#. item one 
-#. item two
+*. item one 
+*. item two
 
 
 
