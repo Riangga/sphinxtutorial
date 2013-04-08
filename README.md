@@ -23,8 +23,13 @@ A numbered list
 #. Item one 
 #. Item two
 
+Here is how to make a simple table
 
-
++-------------+------------+
+|**Name**     |**Job**     |
++-------------+------------+
+|Riangga      | GIS Support|
++-------------+------------+
 how to install git on ubuntu
     
     sudo apt-get install git
