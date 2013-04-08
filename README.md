@@ -25,11 +25,11 @@ A numbered list
 
 Here is how to make a simple table :
 
-+-------------+------------+
-|**Name**     |**Job**     |
-+-------------+------------+
-|Riangga      | GIS Support|
-+-------------+------------+
++---------------+--------------+
+|  **Name**     |  **Job**     |
++---------------+--------------+
+|  Riangga      |  GIS Support |
++---------------+--------------+
 
 how to install git on ubuntu
     
