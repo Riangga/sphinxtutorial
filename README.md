@@ -23,7 +23,7 @@ A numbered list
 #. Item one 
 #. Item two
 
-Here is how to make a simple table
+Here is how to make a simple table :
 
 +-------------+------------+
 |**Name**     |**Job**     |
