@@ -23,7 +23,7 @@ A numbered list:
 Here is how to make a simple table:
 
 +---------------+--------------+
-|  **Name**     |  **Job**     |
+| **Name**      |  **Job**     |
 +---------------+--------------+
 |  Riangga      |  GIS Support |
 +---------------+--------------+
