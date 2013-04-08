@@ -18,8 +18,8 @@ A bullet list
 * item bar
 
 A number list
-*. item one 
-*. item two
+#. item one 
+#. item two
 
 
 
